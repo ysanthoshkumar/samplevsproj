@@ -1,0 +1,5 @@
+F:\LowFiles\WorkSpace\YashXamarin\JMdll\JioMoney\JioMoney\bin\Debug\JioMoney.dll
+F:\LowFiles\WorkSpace\YashXamarin\JMdll\JioMoney\JioMoney\bin\Debug\JioMoney.pdb
+F:\LowFiles\WorkSpace\YashXamarin\JMdll\JioMoney\JioMoney\obj\Debug\JioMoney.dll
+F:\LowFiles\WorkSpace\YashXamarin\JMdll\JioMoney\JioMoney\obj\Debug\JioMoney.pdb
+F:\LowFiles\WorkSpace\YashXamarin\JMdll\JioMoney\JioMoney\obj\Debug\JioMoney.csprojResolveAssemblyReference.cache
